@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb://heroku_cln0sqn2:g3n7ev1jl4kiq7op7lagbthlgt@ds147125.mlab.com:47125/heroku_cln0sqn2",
+    "secret": "Hemanth"
+}
